@@ -10,3 +10,4 @@ export class MyComponent {
     return <div>Hello from MyComponent!</div>;
   }
 }
+
