@@ -45,3 +45,19 @@ To run the unit tests and watch for file changes during development, run:
 ```
 npm run test.watch
 ```
+
+
+
+
+
+
+
+
+# start-cleaner
+
+Plantilla limpia para iniciar proyectos con Stencil sin configuraciones innecesarias.
+
+## Uso
+
+```bash
+npm init stencil -- --template tu-usuario/start-cleaner

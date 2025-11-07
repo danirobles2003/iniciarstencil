@@ -2,21 +2,7 @@ dist/
 !www/favicon.ico
 www/
 
-*~
-*.sw[mnpcod]
-*.log
-*.lock
-*.tmp
-*.tmp.*
-log.txt
-*.sublime-project
-*.sublime-workspace
-
-.stencil/
-.idea/
-.vscode/
-.sass-cache/
-.versions/
+dist
 node_modules/
 pnpm-lock.yaml
 $RECYCLE.BIN/
